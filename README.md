@@ -1,15 +1,24 @@
+<!-- HEADER ANIMATIONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN -->
 
+<!-- HEADER ANIMATION (Radical Theme) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF005C,50:B62BFF,100:141321&section=header" width="100%"/>
+</p>
+
+
+<div>
+    <img align="right" src="https://komarev.com/ghpvc/?username=BhagwaniVishi&label=Profile%20views&color=0e75b6&style=flat" alt="smusenko" />
+</div>
 
 <!---
 BhagwaniVishi/BhagwaniVishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hey 🙋‍♀️
-Vaishali here. I'm a highly motivated and dedicated final year student majoring in Computer Science and Engineering at IIIT Vadodara International Campus Diu.
+# Hey there! 👋
+ Welcome to my GitHub profile! I'm passionate about coding, building amazing projects, and contributing to the open source community.
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BhagwaniVishi&label=Profile%20views&color=0e75b6&style=flat" alt="julio101290" /> </p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;TypeScript+Enthusiast;DataScience+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies!" alt="Typing SVG" />
@@ -69,7 +78,7 @@ Vaishali here. I'm a highly motivated and dedicated final year student majoring 
 
 <div align="center">
   <a href="https://github.com/BhagwaniVishi/">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BhagwaniVishi&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhagwaniVishi&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@BhagwaniVishi's github-readme-streak-stats"/>
   </a>
 </div>
 
@@ -146,3 +155,9 @@ Vaishali here. I'm a highly motivated and dedicated final year student majoring 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BhagwaniVishi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- FOOTER ANIMATION (Radical Theme) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF005C,50:B62BFF,100:141321&section=footer&reversal=true" width="100%"/>
+</p>
+
