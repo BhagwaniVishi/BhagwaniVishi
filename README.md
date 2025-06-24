@@ -31,8 +31,8 @@ You can click the Preview link to take a look at your changes.
    
    <!-- Snake Game (GitHub Contribution Graph) -->
 <div>
-  <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="60%" alt="Snake Game" />
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="220px" alt="Computer illustration" />
+  <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="210px" alt="Computer illustration" />
 </div>
 
 
