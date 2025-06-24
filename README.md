@@ -14,9 +14,9 @@ Vaishali here. I'm a highly motivated and dedicated final year student majoring 
 
 ## Languages and Tools I use:
 <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img style="width:36px" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" /> <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /> <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img style="width:36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
+<!--
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaishali-bhagwani-5b67211a2/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaishali-bhagwani-5b67211a2/) --->
 
 ## Featured Projects
 <!--
@@ -28,21 +28,48 @@ Vaishali here. I'm a highly motivated and dedicated final year student majoring 
 
 -->
 
-## GitHub Stats:
+<!--## GitHub Stats:
    ![](https://github-readme-stats.vercel.app/api?username=BhagwaniVishi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
    ![](https://github-readme-streak-stats.herokuapp.com/?user=BhagwaniVishi&theme=tokyonight&hide_border=false)<br/>
    ![](https://github-readme-stats.vercel.app/api/top-langs/username=BhagwaniVishi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
+## 📈 GitHub Stats
 
-## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=BhagwaniVishi&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<table>
+  <tr>
+    <td>
+      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=BhagwaniVishi&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagwaniVishi&layout=compact&theme=dracula&langs_count=8&hide=html,css" alt="Top Languages" />
+    </td>
+    <td>
+      <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=BhagwaniVishi&theme=dracula&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-### Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=BhagwaniVishi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!--## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BhagwaniVishi&theme=radical" alt="GitHub Trophies" />
-</div>-->
+  <a href="https://github.com/BhagwaniVishi/">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BhagwaniVishi&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+  </a>
+</div>
+
+
+
+
+
+
+<!--## GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=BhagwaniVishi&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)-->
+
+<!--### Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=BhagwaniVishi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-->
+
+##  GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BhagwaniVishi&theme=dracula" alt="GitHub Trophies" />
+</div>
 
 ## 📬 Connect with Me
 
