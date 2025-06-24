@@ -17,15 +17,37 @@ You can click the Preview link to take a look at your changes.
 # Hey there! 👋
  Welcome to my GitHub profile! I'm passionate about coding, building amazing projects, and contributing to the open source community.
 
+<!-- Typing SVG 
+# 👋 About Me
+
+ <!-- Typing SVG • About Vaishali 
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://typing-app-scott-99eae8fe7969.herokuapp.com?font=Fira+Code&weight=435&size=32f&duration=500&pause=1000&color=FF005C&center=true&width=800&lines=Hi!+I'm+Vaishali+Bhagwani!;Full-Stack+Developer+%7C+ML+%26+DL+Researcher.;I+build+PERN+apps+with+React,+Express,+and+PostgreSQL.;Worked+on+CNN+%2B+XGBoost+for+breast+cancer+detection.;Currently+learning+Prisma,+JWT,+Socket.io+%26+Zustand.;I+love+solving+real-world+problems+with+code!;Passionate+about+clean+architecture+%26+automation.;When+I'm+not+coding,+I'm+at+the+gym+or+exploring+tech.;Let's+connect+%26+build+something+great+together!"
+    alt="Typing SVG (Vaishali Intro)"
+  />
+</a>
+-->
+   
+   <!-- Snake Game (GitHub Contribution Graph) -->
+<div>
+  <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="75%" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="220px" alt="Computer illustration" />
+</div>
+
 
 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;TypeScript+Enthusiast;DataScience+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies!" alt="Typing SVG" />
+<!--   <a href="https://coff.ee/vishi"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="180" alt="julio101290" /></a> -->
+  
 </div>
-
+ <!--
 <h3 align="left">Support:</h3>
-<p><a href="https://coff.ee/vishi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="julio101290" /></a></p><br><br>
+<p><a href="https://coff.ee/vishi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="julio101290" /></a></p>
+-->
+<br><br>
 
 
 ##  Tech Stack
@@ -44,9 +66,9 @@ You can click the Preview link to take a look at your changes.
 <!--
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaishali-bhagwani-5b67211a2/) --->
-
-## Featured Projects
 <!--
+## Featured Projects
+
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🌐 BuiltInPublic](https://github.com/Christin-paige/BuiltInPublic) | A collaborative social media platform built by devs, for devs — think GitHub meets Twitter. Currently in active development with a team. | Next.js, TailwindCSS, React, TypeScript, Node.js, Supabase, CI/CD 
@@ -60,7 +82,7 @@ You can click the Preview link to take a look at your changes.
    ![](https://github-readme-streak-stats.herokuapp.com/?user=BhagwaniVishi&theme=tokyonight&hide_border=false)<br/>
    ![](https://github-readme-stats.vercel.app/api/top-langs/username=BhagwaniVishi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <table>
   <tr>
@@ -98,7 +120,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-profile-trophy.vercel.app/?username=BhagwaniVishi&theme=dracula" alt="GitHub Trophies" />
 </div>
 
-## 📬 Connect with Me
+## Connect with Me
 <div align="center"> <a href="https://www.linkedin.com/in/vaishali-bhagwani-5b67211a2/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:vaishalibhagwani@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><div align="center"> </div>
 
 
@@ -141,7 +163,13 @@ You can click the Preview link to take a look at your changes.
   </table>
 </div>
 
-#  Music I'm Listening To
+ 
+## Support
+<p align="center"><a href="https://coff.ee/vishi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="julio101290" /></a></p>
+<br><br>
+
+
+## Music I'm Listening To
 <p align="center">
   <img src="https://spotify-now-playing-rust.vercel.app/api/spotify?background_color=212121" alt="Spotify Now Playing" />
 </p>
@@ -153,8 +181,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=BhagwaniVishi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- FOOTER ANIMATION (Radical Theme) -->
 <p align="center">
