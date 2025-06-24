@@ -72,6 +72,8 @@ Vaishali here. I'm a highly motivated and dedicated final year student majoring 
 </div>
 
 ## 📬 Connect with Me
+<div align="center"> <a href="https://www.linkedin.com/in/vaishali-bhagwani-5b67211a2/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:vaishalibhagwani@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><div align="center"> </div>
+
 
 <div align="center" style="display: inline-block; padding: 8px; border: 1px solid #444; border-radius: 12px;">
   <table cellspacing="4" cellpadding="0" style="border-collapse: collapse;">
