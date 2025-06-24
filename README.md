@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Support:</h3>
 <p><a href="https://coff.ee/vishi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="julio101290" /></a></p>
 -->
-<br><br>
+<!-- <br><br> -->
 
 
 ##  Tech Stack
