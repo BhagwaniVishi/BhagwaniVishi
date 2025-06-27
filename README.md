@@ -7,8 +7,10 @@
 
 
 <div>
-    <img align="right" src="https://komarev.com/ghpvc/?username=BhagwaniVishi&label=Profile%20views&color=0e75b6&style=flat" alt="smusenko" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=BhagwaniVishi&label=Profile%20views&color=8e44ad&style=flat" alt="BhagwaniVishi" />
 </div>
+
+
 
 <!---
 BhagwaniVishi/BhagwaniVishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
