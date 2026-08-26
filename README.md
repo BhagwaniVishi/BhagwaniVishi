@@ -157,7 +157,7 @@ You can click the Preview link to take a look at your changes.
         </a>
       </td>
       <td style="border: 1px solid #444; border-radius: 4px; padding: 6px;" align="center">
-        <a href="https://telegram.me/vi" target="_blank" rel="noreferrer">
+        <a href="https://telegram.me/redpandavishi/" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label="  alt="Telegram"/>
         </a>
       </td>
